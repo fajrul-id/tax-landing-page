@@ -76,7 +76,7 @@ const OurValues = () => {
       </div>
 
       <div className="absolute right-10 bottom-10 text-gray-500">
-        Let's Work Together
+        Our Price
         <ScrollMouse />
       </div>
     </section>

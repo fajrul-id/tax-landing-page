@@ -45,8 +45,8 @@ const OurExcellencePeople = () => {
             rounded-full max-w-[15rem]"
               />
               <span>
-                <p className="font-semibold">Ana Christyawati</p>
-                <p>Partner Leader</p>
+                <p className="font-semibold">Dede Nursahidah</p>
+                <p>Partner</p>
               </span>
             </span>
 
@@ -59,8 +59,8 @@ const OurExcellencePeople = () => {
             rounded-full max-w-[15rem]"
               />
               <span>
-                <p className="font-semibold">Ana Christyawati</p>
-                <p>Partner Leader</p>
+                <p className="font-semibold">Fatahillah Akbar</p>
+                <p>Partner</p>
               </span>
             </span>
           </div>

@@ -9,6 +9,7 @@ import {
   OurExcellencePeople,
   OurService,
   OurValues,
+  Package,
 } from "../views";
 export default function Home() {
   return (
@@ -26,6 +27,7 @@ export default function Home() {
           <OurService />
           <OurExcellencePeople />
           <OurValues />
+          <Package />
           <LetsWorkTogether />
         </div>
       </main>

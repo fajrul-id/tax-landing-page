@@ -21,16 +21,16 @@ const OurService = () => {
               <div className="flex flex-col w-full gap-4 ">
                 <span>
                   <ul>
-                    <h1 className="text-lg md:text-4xl text-gray-200">
+                    <h1 className="text-xl md:text-4xl text-gray-200">
                       Accounting Services
                     </h1>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       Preparation and evaluation of Financial Statements
                     </li>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       SOP creation for your business
                     </li>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       Establish accounting software tailored for your business
                       needs (ref. ACCURATE Accounting System)
                     </li>
@@ -39,20 +39,20 @@ const OurService = () => {
 
                 <span>
                   <ul>
-                    <h1 className="text-lg md:text-4xl text-gray-200">
+                    <h1 className="text-xl md:text-4xl text-gray-200">
                       Tax Services & Advisory
                     </h1>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       Tax Compliance (Monthly and Yearly) for Individual &
                       Company
                     </li>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       Tax Review and Tax Planning
                     </li>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       VAT Number Registration
                     </li>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       EFIN Registration
                     </li>
                   </ul>
@@ -60,14 +60,14 @@ const OurService = () => {
 
                 <span>
                   <ul>
-                    <h1 className="text-lg md:text-4xl text-gray-200">
+                    <h1 className="text-xl md:text-4xl text-gray-200">
                       In-House Training
                     </h1>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       Basic knowledge of Indonesia Tax Law and its
                       implementation
                     </li>
-                    <li className="text-base list-disc ml-4">
+                    <li className="text-sm md:text-base list-disc ml-4">
                       Basic knowledge for simple Accounting and Bookeeping
                     </li>
                   </ul>
